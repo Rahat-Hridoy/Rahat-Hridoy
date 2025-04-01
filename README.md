@@ -16,7 +16,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-Hridoy&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Rahat-Hridoy)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rahat-Hridoy)  
 
