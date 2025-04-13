@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Md Rahatul Islam</h1> 
-<h3 align="center">Web Developer | WordPress | Shopify</h3>
+<h3 align="center">Software Developer | Web Developer</h3>
 <div align="center">
 
  ![Profile views](https://komarev.com/ghpvc/?username=rahat-hridoy&color=red)
