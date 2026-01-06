@@ -64,6 +64,17 @@ Beyond web development, I have a deep interest in automation and problem-solving
 
 </div>
 
+<img
+  src="https://streak-stats.demolab.com?user=rahat-hridoy
+  &theme=react
+  &hide_border=true
+  &background=0D1117
+  &stroke=7F3FBF
+  &ring=F85D7F
+  &fire=F8D866
+  &currStreakLabel=C9D1D9"
+/>
+
 
 ![Rahat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahat-Hridoy&custom_title=Rahat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
