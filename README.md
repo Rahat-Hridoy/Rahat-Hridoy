@@ -46,6 +46,25 @@ Beyond web development, I have a deep interest in automation and problem-solving
   <br/>
 </p>
 
+<div align="center">
+
+  <a href="https://github.com/rahat-hridoy">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahat-hridoy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=58A6FF&text_color=C9D1D9"
+      height="190"
+    />
+  </a>
+
+  <a href="https://github.com/rahat-hridoy">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahat-hridoy&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"
+      height="190"
+    />
+  </a>
+
+</div>
+
+
 ![Rahat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahat-Hridoy&custom_title=Rahat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
