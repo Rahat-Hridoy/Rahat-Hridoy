@@ -40,13 +40,11 @@ Beyond web development, I have a deep interest in automation and problem-solving
 # 📊 GitHub Stats:
 
 
-<img
-  src="https://streak-stats.demolab.com
-  ?user=rahat-hridoy
-  &theme=react
-  &hide_border=true
-  &background=0D1117"
-/>
+<p> 
+  <a href="https://github.com/rahat-hridoy"><img alt="Rahat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahat-hridoy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
+  <a href="https://github.com/rahat-hridoy"><img alt="Rahat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahat-hridoy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
+  <br/>
+</p>
 
 
 
