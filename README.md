@@ -66,7 +66,7 @@ I have experience with REST APIs, PostgreSQL, Redis, and Prisma, along with plat
 ![Brevo](https://img.shields.io/badge/brevo-%2300AEEF.svg?style=for-the-badge)
 
 <br/>
-# 📊 GitHub Stats:
+# 📊GitHub Stats:
 
 
 <p> 
