@@ -9,8 +9,9 @@
 
 
 <br/>
-I am a dynamic web developer with a passion for creating seamless digital experiences. Proficient in JavaScript, CSS, and HTML, I bring a strong design sense to every project. My expertise extends to WordPress and Shopify, ensuring optimized and user-friendly solutions. 
-Beyond web development, I have a deep interest in automation and problem-solving, demonstrated by my successful automation project built using C++. I thrive on innovation, efficiency, and crafting scalable solutions that bridge technology and creativity.<br/> <br/> <br/> 
+I am a full-stack developer skilled in JavaScript and TypeScript, building modern web applications with React, Next.js, Node.js, and NestJS. I focus on creating scalable, user-friendly solutions with strong design sense and efficient backend systems.
+I have experience with REST APIs, PostgreSQL, Redis, and Prisma, along with platforms like WordPress. Passionate about automation and problem-solving, I enjoy building complete, high-performance digital products.
+<br/> <br/> <br/> 
 
 
 
@@ -21,7 +22,7 @@ Beyond web development, I have a deep interest in automation and problem-solving
 
 # 💻 Tech Stack:
 
-###Front-End:
+### Front-End:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +36,7 @@ Beyond web development, I have a deep interest in automation and problem-solving
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-###Back-End:
+### Back-End:
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/rest_api-%23000000.svg?style=for-the-badge)
@@ -48,7 +49,7 @@ Beyond web development, I have a deep interest in automation and problem-solving
 ![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-###Tools:
+### Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +58,7 @@ Beyond web development, I have a deep interest in automation and problem-solving
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-###Services:
+### Services:
 ![Auth0](https://img.shields.io/badge/auth0-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/clerk-%23000000.svg?style=for-the-badge)
 ![EmailJS](https://img.shields.io/badge/emailjs-%23000000.svg?style=for-the-badge)
