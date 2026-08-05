@@ -9,8 +9,10 @@
 
 
 <br/>
-I am a full-stack developer skilled in JavaScript and TypeScript, building modern web applications with React, Next.js, Node.js, and NestJS. I focus on creating scalable, user-friendly solutions with strong design sense and efficient backend systems.
-I have experience with REST APIs, PostgreSQL, Redis, and Prisma, along with platforms like WordPress. Passionate about automation and problem-solving, I enjoy building complete, high-performance digital products.
+I am Rahat, a Software Developer with a strong foundation in building scalable SaaS applications and modern web architectures
+My technical expertise includes developing high-performance features, such as real-time inventory systems with strict concurrency control and secure authentication workflows. By integrating AI-assisted tools into my development process, I ensure high code quality, efficiency, and production-ready stability. 
+My unique combination of development and testing experience allows me to build robust, bug-free applications that drive business value.
+
 <br/> <br/> <br/> 
 
 
