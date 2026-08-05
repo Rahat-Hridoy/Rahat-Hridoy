@@ -72,20 +72,22 @@ My unique combination of development and testing experience allows me to build r
 
 ### GitHub Status:
 
-
-<p> 
-  <a href="https://github.com/rahat-hridoy"><img alt="Rahat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahat-hridoy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/rahat-hridoy"><img alt="Rahat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahat-hridoy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
-  <br/>
+<!-- Row 1: GitHub Stats & GitHub Streak (Side by Side) -->
+<p align="center">
+  <a href="https://github.com/rahat-hridoy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahat-hridoy&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rahat-hridoy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-hridoy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  </a>
 </p>
 
-
-
-![Rahat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahat-Hridoy&custom_title=Rahat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahat-Hridoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rahat-Hridoy&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Row 2: Most Used Languages & Activity Graph (Side by Side) -->
+<p align="center">
+  <a href="https://github.com/rahat-hridoy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahat-hridoy&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Most Used Languages" />
+  </a>
+  <a href="https://github.com/rahat-hridoy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-hridoy&theme=react-dark&hide_border=true" width="60%" alt="GitHub Activity Graph" />
+  </a>
+</p>
