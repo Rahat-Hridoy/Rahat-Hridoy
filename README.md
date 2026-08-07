@@ -9,7 +9,7 @@
 
 
 <br/>
-I am Rahat, a Software Developer with a strong foundation in building scalable SaaS applications and modern web architectures
+A Software Developer with a strong foundation in building scalable SaaS applications and modern web architectures
 My technical expertise includes developing high-performance features, such as real-time inventory systems with strict concurrency control and secure authentication workflows. By integrating AI-assisted tools into my development process, I ensure high code quality, efficiency, and production-ready stability. 
 My unique combination of development and testing experience allows me to build robust, bug-free applications that drive business value.
 
