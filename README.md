@@ -83,19 +83,19 @@ My unique combination of development and testing experience allows me to build r
 <!-- Row 1: GitHub Stats & GitHub Streak (Side by Side) -->
 <p align="center">
   <a href="https://github.com/rahat-hridoy">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahat-hridoy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/rahat-hridoy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-hridoy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Row 2: Most Used Languages & Activity Graph (Side by Side) -->
+### GitHub Contribution 
+
 <p align="center">
-  <a href="https://github.com/rahat-hridoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-hridoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" alt="Most Used Languages" />
-  </a>
-  <a href="https://github.com/rahat-hridoy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-hridoy&theme=react-dark&hide_border=true" width="60%" alt="GitHub Activity Graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahat-Hridoy/Rahat-Hridoy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahat-Hridoy/Rahat-Hridoy/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Rahat-Hridoy/Rahat-Hridoy/output/github-snake.svg" />
+  </picture>
 </p>
+
+---
+
